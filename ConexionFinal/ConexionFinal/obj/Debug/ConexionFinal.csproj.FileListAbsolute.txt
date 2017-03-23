@@ -1,0 +1,11 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\bin\Debug\ConexionFinal.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\bin\Debug\ConexionFinal.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\bin\Debug\ConexionFinal.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\bin\Debug\MySql.Data.dll
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\bin\Debug\MySql.Data.xml
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.csprojResolveAssemblyReference.cache
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\ConexionFinal\ConexionFinal\obj\Debug\ConexionFinal.pdb
